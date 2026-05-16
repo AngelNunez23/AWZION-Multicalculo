@@ -73,23 +73,16 @@ O sistema permite:
 📄 relatorio.php
 📄 style.css
 📄 veiculo.php
-# 🎯 Objetivo
+🎯 Objetivo
 
 Desenvolver uma solução moderna, profissional e escalável para o setor de seguros, facilitando o gerenciamento de clientes, veículos e cotações em um único sistema.
+🌎 Desenvolvedor
+👨‍💻 Angel Michael Nunez Medina
 
----
-
-# 🌎 Desenvolvedor
-
-## 👨‍💻 Angel Michael Nunez Medina
-
-🚀 Fundador da AWZION Digital  
-📊 Ciência da Computação | Data Science & BI  
+🚀 Fundador da AWZION Digital
+📊 Ciência da Computação | Data Science & BI
 🌎 Brasil 🇧🇷 & República Dominicana 🇩🇴
+⭐ Status do Projeto
 
----
-
-# ⭐ Status do Projeto
-
-🚧 Projeto em desenvolvimento  
+🚧 Projeto em desenvolvimento
 🔥 Novas funcionalidades serão adicionadas em breve
