@@ -12,7 +12,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $usuario = $_POST["usuario"] ?? "";
     $senha = $_POST["senha"] ?? "";
 
-    // LOGIN FIXO INICIAL
     $usuario_correto = "admin";
     $senha_correta = "123456";
 
@@ -59,11 +58,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <button type="submit">Entrar</button>
             </div>
         </form>
-
-        <div class="login-info">
-            <p><strong>Usuário:</strong> admin</p>
-            <p><strong>Senha:</strong> Wilfania2312</p>
-        </div>
     </div>
 </div>
 </body>
