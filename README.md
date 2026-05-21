@@ -17,6 +17,9 @@ O sistema permite:
 ✅ Dashboard administrativo  
 ✅ Controle completo de dados  
 ✅ Histórico de cotações  
+✅ Interface responsiva  
+✅ Painel moderno estilo SaaS  
+✅ Sistema de login seguro  
 
 ---
 
@@ -73,6 +76,34 @@ O sistema permite:
 📄 relatorio.php
 📄 style.css
 📄 veiculo.php
+📄 config.example.php
+```
+
+---
+
+# 🔐 Segurança
+
+O arquivo:
+
+```php
+config.php
+```
+
+não está incluído neste repositório por segurança.
+
+Crie o arquivo baseado em:
+
+```php
+config.example.php
+```
+
+e configure:
+
+```php
+$dbHost
+$dbName
+$dbUser
+$dbPass
 ```
 
 ---
@@ -93,8 +124,45 @@ Desenvolver uma solução moderna, profissional e escalável para o setor de seg
 
 ---
 
+# 🔥 Funcionalidades
+
+- Login seguro
+- Dashboard administrativo
+- Cadastro de clientes
+- Cadastro de veículos
+- Controle de cotações
+- Histórico completo
+- Relatórios PDF
+- Interface responsiva
+- Sistema moderno black & gold
+- Painel estilo SaaS
+
+---
+
+# 🚧 Projeto em evolução
+
+Novas funcionalidades serão adicionadas futuramente:
+
+- 🔄 Multiusuário
+- 🔄 Dashboard avançado
+- 🔄 API REST
+- 🔄 Backup automático
+- 🔄 App Mobile
+- 🔄 Notificações
+- 🔄 Relatórios inteligentes
+
+---
+
 # ⭐ Status do Projeto
 
-🚧 Projeto em desenvolvimento  
-🔥 Novas funcionalidades serão adicionadas em breve
+✅ Em desenvolvimento ativo
 
+---
+
+# 📜 Licença
+
+Este projeto é propriedade privada da AWZION Digital.
+
+O uso, cópia, modificação ou distribuição sem autorização não é permitido.
+
+© 2026 AWZION Digital. Todos os direitos reservados.
