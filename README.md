@@ -51,7 +51,6 @@ O sistema permite:
 - MySQL
 - HTML5
 - CSS3
-- JavaScript
 - Git
 - GitHub
 
